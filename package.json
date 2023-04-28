@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.11",
+    "faker": "^5.5.3",
+    "faker-br": "^0.4.1"
+  },
+  "name": "teste-eba-ui",
+  "description": "",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
